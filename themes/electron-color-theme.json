@@ -33,6 +33,10 @@
     "statusBar.background": "#141820",
     "tab.activeBackground": "#212836",
     "tab.inactiveBackground": "#141820",
+    "terminal.background": "#212836",
+    "terminal.foreground": "#97a7c8",
+    "terminal.ansiBrightGreen": "#82C600",
+    "terminal.ansiBrightRed": "#f30f4c"
     "titleBar.activeBackground": "#141820",
   },
   "tokenColors": [
