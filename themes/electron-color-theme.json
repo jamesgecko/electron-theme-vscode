@@ -3,8 +3,8 @@
   "name": "Electron Color Theme",
   "colors": {
     "activityBar.background": "#141820",
-    "activityBarBadge.background": "#82C600",
-    "activityBarBadge.foreground": "#141820",
+    "activityBarBadge.background": "#f30f4c",
+    "activityBarBadge.foreground": "#ffffff",
     "editor.background": "#212836",
     "editor.foreground": "#97a7c8",
     "editor.lineHighlightBackground": "#99bbff0a",
