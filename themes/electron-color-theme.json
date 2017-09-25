@@ -30,7 +30,7 @@
     "sideBar.background": "#1C222F",
     "sideBarSectionHeader.background": "#141820",
     "sideBarTitle.foreground": "#f44747",
-    "statusBar.background": "#f30f4c"
+    "statusBar.background": "#141820",
     "tab.activeBackground": "#212836",
     "tab.inactiveBackground": "#141820",
     "titleBar.activeBackground": "#141820",
